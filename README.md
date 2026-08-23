@@ -150,16 +150,7 @@ Built on the **Vision-Agents SDK** by GetStream.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaustubhUp025&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KaustubhUp025&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="Streak Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhUp025&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
-
-</div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=KaustubhUp025&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaustubhUp025&show_icons=true&hide_border=true" width="49%" alt="GitHub Stats"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KaustubhUp025&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> <img src="https://streak-stats.demolab.com?user=KaustubhUp025&hide_border=true" width="49%" alt="Streak Stats"/> </picture> <br/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaustubhUp025&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaustubhUp025&layout=compact&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/> </picture> </div>
 
 ---
 
