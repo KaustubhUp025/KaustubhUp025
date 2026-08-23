@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Kaustubh%20Upadhyay&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Building%20tools%20that%20catch%20what%20linters%20can%27t&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+# Hi there 👋
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=distributed+systems+%C2%B7+ML+infrastructure;agentic+AI+%C2%B7+GPU+kernels+%C2%B7+code+analysis" alt="Typing SVG" /></a>
+**Building tools that catch what linters can't**
 
-<br/>
+`distributed systems` · `ML infrastructure` · `agentic AI` · `GPU kernels` · `code analysis`
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-upadhyay-b3674b217)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaustubhUp025)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/quorum/)
+[![Quorum Live](https://img.shields.io/badge/Quorum_Live-Demo-4f46e5?style=for-the-badge&logo=google-cloud&logoColor=white)](https://quorum-3fnjzg6adq-uc.a.run.app/demo)
 
 </div>
 
 ---
 
-## `> whoami`
+## 💡 About Me
 
 ```python
 class Kaustubh:
@@ -40,7 +40,7 @@ I build **agentic developer tools** — systems that use LLMs not for chat, but 
 ### <img src="https://raw.githubusercontent.com/KaustubhUp025/quorum/main/src/quorum/static/mark.svg" width="22"/> [Quorum](https://github.com/KaustubhUp025/quorum)
 **AI-powered distributed coordination linter**
 
-[![PyPI](https://img.shields.io/pypi/v/quorum.svg?style=flat-square)](https://pypi.org/project/quorum/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Cloud_Run-4f46e5?style=flat-square)](https://quorum-3fnjzg6adq-uc.a.run.app/demo)
 [![CI](https://img.shields.io/github/actions/workflow/status/KaustubhUp025/quorum/ci.yml?style=flat-square&label=CI)](https://github.com/KaustubhUp025/quorum/actions)
 [![Tests](https://img.shields.io/badge/tests-259%20passing-brightgreen?style=flat-square)]()
 
@@ -188,22 +188,3 @@ Built on the **Vision-Agents SDK** by GetStream.
 *"SonarQube doesn't have rules for saga compensation. Semgrep can't reason across service boundaries. CodeRabbit can't search the full repo. [Quorum can.](https://github.com/KaustubhUp025/quorum)"*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-
-<!--
-**KaustubhUp025/KaustubhUp025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
