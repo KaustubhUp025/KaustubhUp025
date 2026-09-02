@@ -152,7 +152,7 @@ Built on the **Vision-Agents SDK** by GetStream.
 
 ## 🎯 What I'm Up To
 
-- 🔧 **Building** [GPUyantra]([https://github.com/KaustubhUp025](https://github.com/KaustubhUp025/gpuyantra)) — agentic GPU kernel optimization
+- 🔧 **Building** [GPUyantra](https://github.com/KaustubhUp025/gpuyantra) — agentic GPU kernel optimization
 - 🔍 **Shipping** [Quolab](https://github.com/KaustubhUp025/quolab) — semantic code search with hybrid retrieval
 - 📚 **Learning** CUDA internals, Triton compiler, ML systems design
 - 🎯 **Targeting** ML infrastructure & GPU systems roles
